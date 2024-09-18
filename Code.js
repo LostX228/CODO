@@ -2,7 +2,7 @@
 loopy() 
  function loopy() { 
  var sWord ="LostX" 
- while (sWord != "LostX.Basic-DAY-w9ghj") {// Pass
+ while (sWord != "LostX-AVI-w9ghj") {// Pass
  sWord = prompt("𝐄𝐧𝐭𝐞𝐫 𝐓𝐡𝐞 𝐊𝐞𝐲 ;")  
  } 
  
